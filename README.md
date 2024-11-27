@@ -39,7 +39,7 @@ kubectl get pods -n production
 kubectl get service -n production
 
 
-kubectl exec -it nginx-app-65968468b6-5lz78 -n production -- /bin/bash
+kubectl exec -it <pod-name> -n production -- /bin/bash
 echo $APP_ENV
 echo $DB_PASSWORD
 ```
