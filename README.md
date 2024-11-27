@@ -1,4 +1,4 @@
-![cover2](https://github.com/user-attachments/assets/57abed3f-9a56-4c65-9d1e-b3525da92761)# FECP4-1022-Lab-1-Deploying-environments-in-Kubernetes
+# FECP4-1022-Lab-1-Deploying-environments-in-Kubernetes
 
 ## Create prod environment and configurations
 ``` kubectl create namespace production ```
